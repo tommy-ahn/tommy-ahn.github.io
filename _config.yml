@@ -13,8 +13,8 @@ url:              https://tommy-ahn.github.io/
 baseurl:          /
 
 author:
-  name:           'Dasom Ahn'
-  url:            https://tommy-ahn.github.io/
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
 paginate:         5
 
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           -
+  repo:           https://github.com/poole/hyde
