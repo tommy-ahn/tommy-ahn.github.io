@@ -386,6 +386,8 @@ tbody tr:nth-child(odd) th {
  */
 
 .pagination {
+  display : none; 
+  visibility : hidden;
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
