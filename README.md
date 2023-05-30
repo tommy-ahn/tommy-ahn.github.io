@@ -6,6 +6,6 @@ CVPR Lab: https://cvpr.kmu.ac.kr/
 
 ## Research Interest
 
-Deep Learning, Computer Vision     
-Video understanding (Action recognition, Temporal action detection, etc.)      
-Multi-modal learning      
+- Deep Learning, Computer Vision     
+- Video understanding (Action recognition, Temporal action detection, etc.)      
+- Multi-modal learning      
